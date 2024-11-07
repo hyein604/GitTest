@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         val test1 = "Hello Stranger1"
+        val test2 = "Hello Stranger2"
     }
 }
